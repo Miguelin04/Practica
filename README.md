@@ -101,6 +101,14 @@ Cuando algo falle, copia y pega (o toma un screenshot) de:
 
 Si quieres, puedo intentar arrancar `npm run dev` aquí y traer la salida de la terminal para diagnosticar cualquier error inmediatamente.
 
+# 📋 Registro de Peticiones (plantilla)
+
+A continuación hay una tabla para registrar las peticiones realizadas durante la práctica. Copia/pega filas adicionales según necesites.
+
+| Método | URL | Código de estado | Tiempo respuesta | Observaciones CORS |
+|---|---|---:|---:|---|
+| GET | https://pokeapi.co/api/v2/pokemon?limit=20 | 200 | 123 ms | - |
+
 ### HTTP vs HTTPS
 
 Para que esta aplicación funcione, el navegador (cliente) debe comunicarse con los servidores de PokéAPI.
