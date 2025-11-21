@@ -100,20 +100,6 @@ Cuando algo falle, copia y pega (o toma un screenshot) de:
 ---
 
 Si quieres, puedo intentar arrancar `npm run dev` aquí y traer la salida de la terminal para diagnosticar cualquier error inmediatamente.
-# PokéAPI Explorer ⚡
-
-Esta es una aplicación web moderna construida con React y TypeScript que interactúa con la [PokéAPI](https://pokeapi.co/). El propósito principal de este proyecto es demostrar conceptos fundamentales de desarrollo web como el consumo de APIs RESTful, manejo de estado asíncrono y diferencias entre protocolos web.
-
-## 🚀 Características
-
-1.  **Explorador de Pokémon**: Muestra una lista inicial de 20 Pokémon con sus imágenes y tipos.
-2.  **Búsqueda Inteligente**: Permite buscar Pokémon específicos por nombre o ID numérico.
-3.  **Visor Dual de Datos**:
-    *   **Modo Tarjeta**: Una interfaz gráfica amigable para usuarios finales.
-    *   **Modo JSON**: Una vista de desarrollador que muestra la respuesta cruda del servidor.
-4.  **Educativo**: Incluye explicaciones integradas sobre el funcionamiento técnico.
-
-## 📚 Conceptos Técnicos
 
 ### HTTP vs HTTPS
 
